@@ -31,5 +31,4 @@ Each node has a heuristic value **h(n)**, and edge labels show the path costs.
 ---
 
 ## 💻 Exercise 2: Implement A* Search (Coding)
-## Exercies 2: is in Code.ipynb
-
+## Exercies 2: is in (Code.ipynb)
