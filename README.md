@@ -1,7 +1,6 @@
 # Homework-of-AI-course-2
-# Module 2 – A* Search Exercises
 
-# Module 2 – Session 4: A* Search Exercises
+# Module 2 – A* Search Exercises
 
 ## 🎯 Objective
 To understand the A* evaluation function and to implement the A* algorithm.
@@ -16,7 +15,7 @@ To understand the A* evaluation function and to implement the A* algorithm.
 
 Each node has a heuristic value **h(n)**, and edge labels show the path costs.
 
-**Steps (summary):**
+**Steps:**
 1. Start at **S (h=10)**.
 2. Compute f(n) = g(n) + h(n) for all neighbors.
 3. Expand nodes in increasing order of f(n).
